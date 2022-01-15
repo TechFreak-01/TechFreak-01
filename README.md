@@ -4,17 +4,16 @@
 
 <h2 align="center">Antonio❤️</h1>
 
-Solo 15 años Un poco ocupado por el estudio pero amante de la programación
+Solo 15 años amo la programación y los proyectos de Código Abierto.
+
+**Tardo en responder debido a los estudios**
+
+## Social
+[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/antoniomg283/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/mirantonio)
+
+## Status
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCkipnbRedvjOOGz0yDYtG6A?label=YOUTUBE"/>](https://youtube.com/channel/UCkipnbRedvjOOGz0yDYtG6A)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=TechFreak-01&color=2685BF)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
