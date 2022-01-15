@@ -1,10 +1,14 @@
-### Hi there 👋
+<a align="center" href="https://github.com/TechFreak-01/">
+ <img width="90%" align="center" src="https://github.com/TechFreak-01/TechFreak-01/blob/9ae6c744870b3845403f4208282fd10cf9f080a6/77%20sin%20t%C3%ADtulo_20220115100329.png" alt="TechFreak Logo" />
+</a>
+
+**Hola soy Antonio❤️**
+
+Solo 15 años Un poco ocupado por el estudio pero amante de la programación
+
+![GitHub Views](https://komarev.com/ghpvc/?username=TechFreak-01&color=2685BF)
 
 <!--
-**TechFreak-01/TechFreak-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
