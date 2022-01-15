@@ -2,7 +2,7 @@
  <img width="90%" align="center" src="https://github.com/TechFreak-01/TechFreak-01/blob/9ae6c744870b3845403f4208282fd10cf9f080a6/77%20sin%20t%C3%ADtulo_20220115100329.png" alt="TechFreak Logo" />
 </a>
 
-**Hola soy Antonio❤️**
+<h2 align="center">Antonio❤️</h1>
 
 Solo 15 años Un poco ocupado por el estudio pero amante de la programación
 
