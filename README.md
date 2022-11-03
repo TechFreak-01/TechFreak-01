@@ -1,10 +1,10 @@
-<a align="center" href="https://github.com/TechFreak-01/">
- <img width="90%" align="center" src="https://github.com/TechFreak-01/TechFreak-01/blob/9ae6c744870b3845403f4208282fd10cf9f080a6/77%20sin%20t%C3%ADtulo_20220115100329.png" alt="TechFreak Logo" />
+<a align="center" href="https://github.com/ByteLost/">
+ <img width="90%" align="center" src="https://github.com/ByteLost/ByteLost/blob/main/20221103_013626_0000.png" alt="ByteLost Logo" />
 </a>
 
-<h2 align="center">Antonio❤️</h1>
+<h2 align="center">Antonio🧿📿</h1>
 
-Solo 15 años amo la programación y los proyectos de Código Abierto.
+Solo 16 años amo la programación y los proyectos de Código Abierto.
 
 **Tardo en responder debido a los estudios**
 
