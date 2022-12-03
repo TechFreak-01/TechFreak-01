@@ -6,7 +6,7 @@
 
 **Actualmente Estudiando Bachillerato**
 
-Hola mi Nombre es Antonio soy un chico de 16 que empezo a programar por curiosidad sobre como duncionaba el mundo de los teléfonos moviles y los videojuegos empezé a los 13 años con Java un lenguaje un tanto difícil para muchos principiantes.
+Hola mi Nombre es Antonio soy un chico de 16 años que empezo a programar por curiosidad sobre como funcionaba el mundo de los teléfonos moviles y los videojuegos empezé a los 13 años con Java un lenguaje un tanto difícil para muchos principiantes.
 
 
 ## Social
