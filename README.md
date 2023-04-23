@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center">Hola, soy <a href="https://github com/AntonioMirabal">Gara</a> 👋</h1> </div> <img src="https://github.com/AntonioMirabal/Gara/blob/main/gara_left_with_text.png">
-[![GitHub followers](https://img.shields.io/github/followers/antoniomirabal?style=social)](https://github.com/AntonioMirabal)
+
 
 ## Sobre mi
 
