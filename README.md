@@ -1,20 +1,3 @@
-<a align="center" href="https://github.com/ByteLost/">
- <img width="90%" align="center" src="https://github.com/ByteLost/ByteLost/blob/main/20221103_013626_0000.png" alt="ByteLost Logo" />
-</a>
-
-<h2 align="center">Antonio Mirabal🧿</h1>
-
-**Actualmente Estudiando Bachillerato**
-
-Hola mi Nombre es Antonio soy un chico de 16 años que empezo a programar por curiosidad sobre como funcionaba el mundo de los teléfonos moviles y los videojuegos empezé a los 13 años con Java un lenguaje un tanto difícil para muchos principiantes.
-
-
-## Social
-[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/antoniomg283/)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/mirantonio)
-
-## Status
-[<img src="https://img.shields.io/youtube/channel/subscribers/UCkipnbRedvjOOGz0yDYtG6A?label=YOUTUBE"/>](https://youtube.com/channel/UCkipnbRedvjOOGz0yDYtG6A)
-
-![GitHub Views](https://komarev.com/ghpvc/?username=TechFreak-01&color=2685BF)
-
+<div align="center"> <h1 align="center">Hola, soy <a href="https://github com/AntonioMirabal">Gara</a> 👋</h1> </div> <img src="https://github.com/AntonioMirabal/Gara/blob/main/gara_left_with_text.png"> [![GitHub followers](https://img.shields.io/github/followers/antoniomirabal?style=social)](https://github.com/AntonioMirabal) ## Sobre mi
+Hola soy Gara un chico de 16 años apasionado por la programación y la tecnología normalmente desarollo proyectos web aunque tambien soy desarollador movil si quieres conocerme puedes contactarme y talvez terminemos colaborando 🤗
+<br> ### ⚙️ &nbsp; Estadísticas <p align="center"> <a href="https://github.com/AntonioMirabal"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniomirabal&show_icons=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniomirabal&layout=compact&langs_count=8"/> </a> </p>
