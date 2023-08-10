@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center">Hola, soy <a href="https://github com/AntonioMirabal">Gara</a> 👋</h1> </div> <img src="https://github.com/AntonioMirabal/Gara/blob/main/gara_left_with_text.png">
+<div align="center" style="boder-radius: 50%; border: 1px solid #FFF; background-color: #000;"> <h1 align="center">Hola, soy <a href="https://github com/AntonioMirabal">Gara</a> 👋</h1> </div> <img src="https://github.com/AntonioMirabal/Gara/blob/main/gara_left_with_text.png">
 
 
 ## Sobre mi
