@@ -1,8 +1,8 @@
 # 😶‍🌫️ Acerca de Mi:
-<span style="color: black">
-  Hola Soy Ruanmiga un amante del codigo o al menos asi yo lo veo Tengo una relación amor-odio con mi código. A veces funciona, a veces hace que quiera lanzar mi laptop por la ventana. Pero a pesar de todo Mi código nunca falla, simplemente sorprende a los usuarios con resultados inesperados. Se preguntaran tal vez que hago aqui con apenas 17 años ¿17 años? es verdad no se los habia dicho tengo 17 años Bueno mi vida es algo como "La última vez que vi 'null' fue en mi historial amoroso, y también en mi código" peroo bueno a tomar por saco. !Bienvenidos a mi Github!
-</span>
 
+*Hola Soy Ruanmiga un amante del codigo o al menos asi yo lo veo Tengo una relación amor-odio con mi código. A veces funciona, a veces hace que quiera lanzar mi laptop por la ventana. Pero a pesar de todo Mi código nunca falla, simplemente sorprende a los usuarios con resultados inesperados. Se preguntaran tal vez que hago aqui con apenas 17 años ¿17 años? es verdad no se los habia dicho tengo 17 años Bueno mi vida es algo como "La última vez que vi 'null' fue en mi historial amoroso, y también en mi código" peroo bueno a tomar por saco.*
+
+***!Bienvenidos a mi Github!***
 
 <a href='mailto:hello@ruanmiga.social' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Contactar-100000?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=white&color=white'/></a>
 
