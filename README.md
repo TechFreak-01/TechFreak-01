@@ -1,6 +1,6 @@
-*Hola Soy Ruanmiga un amante del codigo o al menos asi yo lo veo Tengo una relación amor-odio con mi código. A veces funciona, a veces hace que quiera lanzar mi laptop por la ventana.*
-
 ***!Bienvenidos a mi Github!***
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&duration=2000&pause=1000&color=81AEF7&center=true&vCenter=true&random=true&width=435&lines=Un+simple+creador+de+codigo;Programador+Web+y+Android;Desde+cu%C3%A1ndo+programar+es+Divertido%3F;Ruanm1ga)](https://git.io/typing-svg)
 
 <a href='mailto:hello@ruanmiga.social' target="_blank"><img alt='Mail' src='https://img.shields.io/badge/Contactar-100000?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=white&color=white'/></a>
 
@@ -20,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanmiga&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
-
-## 🏆 Github
-![](https://github-profile-trophy.vercel.app/?username=Ruanmiga&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Frase del dia
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
