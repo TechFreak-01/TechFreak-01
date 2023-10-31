@@ -1,8 +1,11 @@
+<div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&duration=2000&pause=1000&color=81AEF7&center=true&vCenter=true&random=true&width=435&lines=Bienvenidos+a+Mi+Github;Necesito+m%C3%A1s+Cafe!;Este+es+el+fin)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&duration=2000&pause=1000&color=81AEF7&center=true&vCenter=true&random=true&width=435&lines=Un+simple+creador+de+codigo;Programador+Web+y+Android;Desde+cu%C3%A1ndo+programar+es+Divertido%3F;Ruanm1ga)](https://git.io/typing-svg)
 
 ![This is Fine](https://raw.githubusercontent.com/Ruanmiga/Ruanmiga/main/this-is-fine-404.gif)
+</div>
 
 <a href='mailto:hello@ruanmiga.social' target="_blank"><img alt='Mail' src='https://img.shields.io/badge/Contactar-100000?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=white&color=white'/></a>
 
